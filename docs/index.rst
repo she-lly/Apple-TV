@@ -11,7 +11,7 @@ Apple TV has transformed the way we consume entertainment, offering seamless acc
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://aclogportal.com/amc-plus-login
+   :target: https://aclogportal.com/apple-tv-login
    :alt: Login Now Button
 
 However, to fully utilize your Apple TV device, you need to properly login and configure your Apple ID account. This comprehensive guide will walk you through every aspect of logging into Apple TV, from initial setup to resolving common issues when things aren't working as expected.
